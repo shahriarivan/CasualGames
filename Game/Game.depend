@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1474042882 source:e:\programming\c programs\game project\game\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"menu.h"
+	"hand_cricket.h"
+	"stats.h"
+	<windows.h>
+
+1478531841 e:\programming\c programs\game project\game\menu.h
+
+1474042703 source:e:\programming\c programs\game project\game\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"menu.h"
+	"hand_cricket.h"
+	"stats.h"
+
+1478143944 e:\programming\c programs\game project\game\hand_cricket.h
+
+1473840383 source:e:\programming\c programs\game project\game\hand_cricket.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"menu.h"
+	"hand_cricket.h"
+	"stats.h"
+
+1475316730 e:\programming\c programs\game project\game\stats.h
+
+1474042882 source:e:\programming\c programs\game project\game\stats.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"menu.h"
+	"hand_cricket.h"
+
+1478693434 source:e:\programming\c programs\game project\game\hand_cricket.cpp
+	<stdio.h>
+	<time.h>
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"menu.h"
+	"hand_cricket.h"
+	"stats.h"
+
+1478535473 source:e:\programming\c programs\game project\game\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"menu.h"
+	"guess_the_number.h"
+	"marble_pick.h"
+	"hand_cricket.h"
+	"stats.h"
+	<windows.h>
+
+1478531993 source:e:\programming\c programs\game project\game\menu.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+	"hand_cricket.h"
+	"guess_the_number.h"
+	"marble_pick.h"
+	"stats.h"
+
+1478531841 source:e:\programming\c programs\game project\game\stats.cpp
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"menu.h"
+	"hand_cricket.h"
+
+1478532938 source:e:\programming\c programs\game project\game\marble_pick.cpp
+	<stdio.h>
+	<time.h>
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	"menu.h"
+	"marble_pick.h"
+	"stats.h"
+	<math.h>
+
+1475315310 e:\programming\c programs\game project\game\marble_pick.h
+
+1478423552 e:\programming\c programs\game project\game\guess_the_number.h
+
+1478693434 source:e:\programming\c programs\game project\game\guess_the_number.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<time.h>
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"menu.h"
+	"hand_cricket.h"
+	"stats.h"
+
